@@ -36,7 +36,7 @@ This project integrates the Google Books API with a local SQLite database, allow
 
 1. Clone this reposiroty:
 ```bash
-   git clone https://github.com/smthy1/currency-converter.git
+   git clone https://github.com/smthy1/bookbridge.git
    cd currency-converter
 ```
 
@@ -123,7 +123,7 @@ Esse é um projeto que integra a API de livros do Google com um banco de dados S
 
 1. Clone este repositório:
 ```bash
-   git clone https://github.com/smthy1/currency-converter.git
+   git clone https://github.com/smthy1/bookbridge.git
    cd currency-converter
 ```
 
