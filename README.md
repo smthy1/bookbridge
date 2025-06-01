@@ -101,11 +101,11 @@ Esse é um projeto que integra a API de livros do Google com um banco de dados S
 - 📋 Listar todos os registros armazenados
 
 - 🎯 Fazer consultas específicas no banco:
- - Filtradas pelo título do livro
- - Filtradas pelo nome do autor
- - Filtradas pela data de registro
- - Filtradas pelo ID do registro
- - Contar a quantidade de registros de livros pelo nome do autor
+  - Filtradas pelo título do livro
+  - Filtradas pelo nome do autor
+  - Filtradas pela data de registro
+  - Filtradas pelo ID do registro
+  - Contar a quantidade de registros de livros pelo nome do autor
 
 - 🔄 Atualizar registros existentes
 
