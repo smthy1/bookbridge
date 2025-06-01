@@ -43,8 +43,8 @@ This project integrates the Google Books API with a local SQLite database, allow
 2. Create and activate a virtual environment:
 ```bash
     python -m venv venv
-    source venv/bin/activate  # no Linux/Mac
-    venv\Scripts\activate     # no Windows
+    source venv/bin/activate  # Linux/Mac
+    venv\Scripts\activate     # Windows
 ```
 
 3. Install all the dependencies:
