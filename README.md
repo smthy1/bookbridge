@@ -14,11 +14,11 @@ This project integrates the Google Books API with a local SQLite database, allow
 - 📋 List all records
 
 - 🎯 Specific database queries:
- - Filter by title
- - Filter by author
- - Filter by registration date
- - Filter by record ID
- - Count the number of books registered by author name
+  - Filter by title
+  - Filter by author
+  - Filter by registration date
+  - Filter by record ID
+  - Count the number of books registered by author name
 
 - 🔄 Update existing records
 
