@@ -34,10 +34,10 @@ This project integrates the Google Books API with a local SQLite database, allow
 
 ## 🚀 How to run
 
-1. Clone this reposiroty:
+1. Clone this repository:
 ```bash
    git clone https://github.com/smthy1/bookbridge.git
-   cd currency-converter
+   cd bookbridge
 ```
 
 2. Create and activate a virtual environment:
